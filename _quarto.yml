@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - home.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - research.qmd 
+      - mylab.qmd
+      - mopc.qmd
+      - seminars.qmd
+      - contact.qmd
+      
+
+  page-footer: "Copyright 2025, Vivek Belhekar"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

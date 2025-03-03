@@ -1,0 +1,173 @@
+---
+title: "Research @ M-OPC"
+---
+
+# **Selected publications of PI and Researchers at M-OPC**
+
+1.  Belhekar, V.M., & Bhargava, R. (2023) Development of Word Count Data Corpus for Hindi and Marathi Literature. Accepted at Applied Corpus Linguistics, Springer. DOI: <https://doi.org/10.1016/j.acorp.2023.100070>
+
+2.  Mellott, R., Belhekar, V. M., Vader, V. & Heffern, J. (Communicated). Personality Structure among Urban Indian Students: Exploring the Network Approach to the Five-Factor Model. Submitted to Current Issues in Personality Psychology. Springer.<https://drive.google.com/file/d/1SJcoKSbn4_PsouSr_UghPfddVMQgiDGT/view?usp=share_link>
+
+3.  Chauhan, A., Belhekar, V., Sehgal, S., Singh, H., Prakash, J. (2022). Identifying significant events in countries using Twitter: A novel methodological approach to analysis and application of CEs. In review stage with Frontiers of Psychology.<https://drive.google.com/file/d/19YfP0HfSIlrpxfZQmURAzniMKWwOOmeS/view?usp=share_link>
+
+4.  Belhekar, V.M., Paranjpye, P., Bhatkhande, A., & Chavan, R. (2020). Guarding the guardians: Understanding the psychological well-being of forest guards in Indian tiger reserves. Biodiversity. Special Issue. 21:2, 83-89. <https://doi.org/10.1080/14888386.2020.1809521>
+
+5.  Dewoolkar, P., Hatekar, N., Belhekar, V.M., Bhatkhande, A., & Chavan, R. (2020). Improving LPG adaptation for better health and conservation outcomes. Biodiversity. Special Issue. 21:2, 90-96. <https://doi.org/10.1080/14888386.2020.1803132>
+
+6.  Belhekar, V. M. (2019). Machine Learning applications to Psychology and Behavioral Science: A case of Personality Psychology. Bombay Psychologists, 32, 63-72. <https://drive.google.com/file/d/1cMIsIKDyp__vesZTGNQXUoB7Zc45pSWz/view?usp=share_link>
+
+7.  Belhekar, V. M., Vader, V. V., Korgaonkar, A., & Dittakavi, S. (2019). What Lies at the Center of Rosenberg Self-Esteem Scale? Network Structure and Latent Structure of Rosenberg Self-Esteem Scale for Indian Data. Bombay Psychologists, 1-14. <https://drive.google.com/file/d/1j0WoSrl9yGBswNkw3upUNptTBD5Sr0jt/view?usp=share_link>
+
+8.  Belhekar, V. M., Bhatkhande, A, Chavan, R. (Under Review). Finding forest within Forest Guards: Implicit Connections with the Work Environment. Submitted.
+
+9.  Belhekar, V. M. (2017). Cognitive and Non-cognitive determinants of Heuristics of Judgment and Decision-Making: General Ability and Personality Traits. Journal of the Indian Academy of Applied Psychology, 43, 75-84.
+
+10. Tafarodi, R. W., Bonn, G., Liang, H., Takai, J., Moriizumi, S., Belhekar, V., & Padhye, A. (2012). What makes for a good life? A four-nation study. Journal of Happiness Studies. 12, 783-800. <https://link.springer.com/article/10.1007/s10902-011-9290-6>
+
+11. Belhekar, V. M. & Sabnis, S. V. (2011). Five-Factor Model of Borderline Personality. Indian Journal of Clinical Psychology, 37, 6-16.
+
+12. Belhekar, V. M. & Padhye, A. A. (2009). The Borderline Personality: Exploring the Role of Affective Instability and the Five-Factor Model Neuroticism. Journal of Psychological Researches: An International Journal, 53, 91-99. <https://drive.google.com/file/d/1kI9i7G7hGeUIWhUR1YN8dowlw4dHD2xw/view?usp=share_link>
+
+13. Belhekar, V. M. (2008). Trait Psychology and Cultural Studies: Issues in the Five- Factor Model of Personality. Indian Journal of Psychology and Mental Health, 1, 184-195.
+
+14. Lodhi, P. H., Deo, S., & Belhekar, V. M. (2004). Evaluating the Five-Factor Model of the personality: Confirmatory factor analysis of the revised NEO Personality Inventory. Journal of Psychological Research: An International Journal, 48, 17- 24. <https://drive.google.com/file/d/1uuLVhlq6-SSuQCdR2Z1Bm2r5SZDWX-wx/view?usp=share_link>
+
+15. Lodhi, P. H., Deo, S., & Belhekar, V. M. (2002). The Five-Factor Model of personality: Measurement and correlates in the Indian context. In. R. R. McCrae & J. Allik (Eds.), The Five-Factor Model Across Cultures (pp. 219-240). New York: Kluwer Academic Publishers. https://link.springer.com/chapter/10.1007/978-1-4615-0763-5_11
+
+16. Belhekar, V. M. (Communicated). Personality, Emotional Intelligence and General Ability: What predicts academic performance?
+
+17. Belhekar, V. M. (Communicated). The EPQ-R Lie Scale: Psychometric evaluation and correlates in Marathi.
+
+# **Paper Presented by researchers at M-OPC**
+
+1.  Belhekar, V.M. & Bhargava, R. (2023). **Lexical Gandhi: Understanding Structure**
+
+2.  **of Topics in Mahatma Gandhi’s writings using Data Analytics Text-Analysis**
+
+3.  **Machine Learning Techniques.** At the Seminar on the occasion of Gandhi Punyatithi (Martyrs' Day). Mahatma Gandhi Peace Centre, University of Mumbai. Discussant: Dr. Shrikant Botre. January 30, 2023. 2:15 – 4:15pm. <https://drive.google.com/file/d/16_fdrED2-qS1kfc430RQlaMLOPaEkn4B/view?usp=share_link>
+
+4.  Chauhan, A., Belhekar, V., Sehgal, S., Singh, H., Prakash, J. (2022). **Examining collective emotional response to COVID-19 pandemic in 19 countries.** The arts and Science Symposium, Brighton Futures, Brighton University, U.K. [https://drive.google.com/file/d/19YfP0HfSIlrpxfZQmURAzniMKWwOOmeS /view?usp=share_link](https://drive.google.com/file/d/19YfP0HfSIlrpxfZQmURAzniMKWwOOmeS%20/view?usp=share_link)
+
+5.  Heffern, J. Vader, V., Gish, H., Belhekar, V.M., Mellott, R. (2020). Acculturation and Personality among Indian students using the NEO-PI-3. Paper at American Psychological Association, 2020. <https://drive.google.com/file/d/1fxiyLOnREhPbqqzjRdyo1Qi5jQytVspS/view?usp=share_link>
+
+6.  Belhekar, V.M. and Vader, V. (2020). **Personality structure in Marathi and English for Maharashtrians: A Psycholexical Investigation.** Gerard Saucier (In Chair). Paper Presented at Society for Cross-Cultural Research Conference (SCCR 2020), Seattle, WA, USA. February 26-28, 2020.
+
+7.  Vader, V. & Belhekar, V.M. (2020). **MUFFI 2 – A culture sensitive measure of personality based on the Indian context.** Paper Presented at Society for Cross- Cultural Research Conference (SCCR 2020), Seattle, WA, USA. February 26-28, 2020. <https://drive.google.com/file/d/1ao1OmeK4hziJffyVJ12HA9YL58dUEDP/view?usp=share_link>
+
+8.  Belhekar, V.M. (2020). **Uncovering the Susegado Self: Understanding of Goan Personality through Psycholexical Lens.** Chair of Symposia at 27th Annual Conference of Bombay Psychological Association (BPA), Goa. February 12, 2020.
+
+9.  Belhekar, V.M. (2020). **Understanding Culture-Personality Research in India.** At Symposia at 27th Annual Conference of Bombay Psychological Association (BPA), Goa. February 12, 2020.
+
+10. Belhekar, V.M. (2020). **Understanding Goan personality through Konkani Self- Descriptors.** At Symposia at 27th Annual Conference of Bombay Psychological Association (BPA), Goa. February 12, 2020.
+
+11. Belhekar, V.M. (2020). **Statistical reasoning for Psychology.** 27th Annual Conference of Bombay Psychological Association (BPA), Goa. February 12, 2020.
+
+12. Belhekar, V.M. & Bhargava, R. (2020). **A Sentiment Analysis Approach to Investigate Followers Evaluation of Political Leaders in India.** 27th Annual Conference of Bombay Psychological Association (BPA), Goa. February 12, 2020.
+
+13. **Paper at American Psychological Association, "Using Factor Analytic Techniques to Delineate Personality Structures Among Indian College Students".** San Francisco, CA. August 11, 2018. J. K. Heffern, Northern Arizona University; Vinita Vader, and Vivek Belhekar, PhD, University of Mumbai, Maharashtra, India; and Ramona N. Mellott, PhD, Northern Arizona University (A-10).
+
+14. **Narcissistic Personality and the Five- Factor Model.** Paper Presented at Indian Association of Applied Psychology (IAAP), 2017, Jaipur, India.
+
+15. **Personality theory and Personality Disorder.** Paper Presented at Indian Association of Applied Psychology (IAAP) 2017.
+
+16. **Behavior Economics and Conservation Psychology for Sustainable Ecological Management.** Session at Conference organized by Amity University, Panvel. Feb 27, 2017.
+
+17. Symposium on **“Structural Equations Modeling using R”** at Indian Association of Applied Psychology (IAAP) 2017. Jaipur.
+
+18. **On Possibility of integration of Personality Theory and Personality Disorders: The case of The Narcissistic Personality, Borderline Personality and the Five- Factor Model in Urban Problems.** 8th India IGU International Conference organized by SNDT University, Pune. 5-6 November 2015.
+
+19. **Policy paper on Issues in Personal Mental Health.** On Behalf of working group for same, 8th India IGU International Conference organized by SNDT University, Pune. 5-6 November 2015.
+
+20. **The Robustness Modular Nature of Human Reasoning: Ecological and Evolutionary Prediction Regarding Cheater Detection, Fairness and Altruism.** Paper Presented at Indian Science Congress Association 102nd Session at University of Mumbai in Anthropological and Behavioral Sciences Section. 3-7 January 2015.
+
+21. **Nature of Fifth Dimension of Personality: SEM-CFA and Experimental Investigation of Openness to Experience.** Presented at Indian Science Congress Association 102nd Session at University of Mumbai in Anthropological and Behavioral Sciences Section. 3-7 January 2015.
+
+22. **Conservations Of Migratory Birds: Behavioral Economic Analysis of Cooperation Among the Visitors and Locals.** Presented at 24th Annual Convention of National Academy of Psychology (NAOP) Bhopal. 12-14 December 2014.
+
+23. **The Landscape Preferences for Children: Testing the Evolutionary Predictions in Three Different Groups.** Presented at 24th Annual Convention of National Academy of Psychology (NAOP) Bhopal. 12-14 December 2014.
+
+24. **The Narcissistic Personality and the Five-Factor Model of Personality.** Presented at the 40th National Annual Conference of the Indian Association of Clinical Psychologists (NACIACP 2014), SRM University, Chennai, 28 Feb – 02 march 2014.
+
+25. **Family and Personality: Understanding, and Modeling Complex Relationship between Family, Personality and Conflict and Management.** Invited paper presented in symposium at International Conference organized by BPA, Department of Applied Psychology, University of Mumbai, SNDT University, and Sophie College.1-3 Dec 2013
+
+26. **Pathless is not hopeless: Structure of Hope in Indian Context.** Paper Presented at annual convention of the Bombay Psychological Association, 2013 January
+
+27. **Structure of Hope among young adults and its concurrent and predictive validity.** Paper presented at the 4th International Conference on Life Skills Education. RGNIYD, 7-9 December 2012 at Vashi, Navi Mumbai.
+
+28. **Just World Scale: Psychometric properties and initial validation.** Paper Presented in the annual convention of the Bombay Psychological Association, 2012. The paper is with Daniel Pereira.
+
+29. **Truth of Lie and Red Herring: Dimensionality and Utility of Lie Scale in Personality Assessment.** Paper presented in the meeting of CBR-UPE in the Department of Applied Psychology, University of Mumbai, 2011
+
+30. **Marathi Rosenberg Self-Esteem Scale.** Paper Presented in the annual convention of the Bombay Psychological Association, 2011.
+
+31. **Heuristics: Experimental investigation of Intelligence and Personality.** Presented a paper at the “Workshop on Experimental Social Sciences’, organized by Center for Computational Social Sciences, UPE, December 28-29, 2009.
+
+32. **Depression, anxiety and representativeness heuristics: Experimental study of base rate fallacy.** Center for Computational Social Sciences, UPE Discussion paper-5. Presented in the meeting of CCSS, UPE, 2009.
+
+33. **What Predicts the achievement? Critical evaluation of the EI as compared to other psychological constructs.** Paper Presented at National Association of Psychology (NAOP), March 2010, Bangalore.
+
+34. **The Five-Factor Model of Personality and Psychopathology Issues and Insights from personality theory about mental illness.** Two-Day National Seminar on Psychology In India December, 2008.
+
+35. **Intelligence, emotional intelligence, and Five-Factor Model of personality as predictors’ Academic achievement.** Paper Presented at Conference of Bombay Psychological Association, Mumbai, January 12, 2010.
+
+36. **The Personality correlates of creativity.** Paper presented at National seminar on ‘the Five-Factor Model and Factor Analysis’. University of Pune, January 2008. (Only presented paper based on PhD degree thesis)
+
+37. **The Assessment of Five-Factor Model of Personality across Instruments.** Paper presented at National seminar on ‘the Five-Factor Model and Factor Analysis’. University of Pune, January 2008.
+
+38. **Academic achievement: Exploring the role of intelligence, emotional intelligence, and Five -Factor Model of personality.** Invited Paper Presentation at Research Meeting at Department of Education, University of Mumbai. September, 2008.
+
+39. **Dissecting a Golden Goose: Personality and Creative achievement.** Paper presented at National seminar on ‘Psychological approaches to Literature’, M.D. College, Mumbai. December 13, 2006.
+
+40. **Role of loss and grief in rehabilitation of handicapped.** Paper presented at ‘National seminar on Carrier Counseling and Rehabilitation of Handicapped’, Department of Applied Psychology, Mumbai University. 20, November 2006.
+
+41. **Trait psychology: problems in cultural studies.** Paper presented at ICSSR Inter- Disciplinary Seminar on Psycho-Social Perspectives on Multiculturalism. Mumbai University, Mumbai. 2006, March.
+
+42. **Grief Counseling in HIV.** Presented at ‘National Seminar for Field Testing of Manual for HIV /AIDS Counseling’ developed by WHO, UNESCO, and NACO organized by NACO, MDACS, and SNDT University on for counselors from India at SNDT University, Mumbai; November 5, 2004.
+
+# **Research Reports**
+
+1.  Belhekar, V.M. and Bhargava, R. (In press). Psychographing Frontline Staff of Pilibhit Tiger Reserve: Understanding Organizational and Human Resource Aspects, Mental Health, Psychological Wellbeing, and Personality across Hierarchies of the Frontline Forest Staff. The Habitats Trust, Noida. <https://drive.google.com/file/d/1HejiCEGw0ssVGiJRoXW5lGFgzTlFHsKy/view?usp=sharing>
+
+2.  Belhekar, V.M. and Bhargava, R. (2022). Psychographing Frontline Staff of Dudhwa Tiger Reserve: Understanding Organizational and Human Resource Aspects, Mental Health, Psychological Wellbeing, Social Networks, and Personality across Hierarchies of the Frontline Forest Staff. The Habitats Trust, Noida. <https://drive.google.com/file/d/1gYisMBNhVgXr9mRWs-sniKUM05WsOlp_/view?usp=share_link>
+
+3.  Andheria, A., Bhatkhande, A., Dewoolkar, P., Paranjpye, P. Acholia, P., Belhekar, V. (2022). Understanding Work Motivation of Forest Guards: Nauradehi Wildlife Sanctuary. Mumbai: Wildlife Conservation Trust, India. <https://drive.google.com/file/d/1KV96SOu0vPp-go2eids7KBduQ0jFfPuk/view?usp=share_link>
+
+4.  Belhekar, V.M., Paranjpye, P., Bhatkhande, A. and Chavan, R. (2019). Assessing Work Motivation of Forest Guards in Madhya Pradesh. Mumbai:Wildlife Conservation Trust, India. [https://www.wildlifeconservationtrust.org/wp- content/uploads/2020/06/061720-Assessing-Work-Motivation-of-Forest-Guards-MP.pdf](https://www.wildlifeconservationtrust.org/wp-%20content/uploads/2020/06/061720-Assessing-Work-Motivation-of-Forest-Guards-MP.pdf)
+
+5.  Belhekar, V.M., Paranjpye, P., Bhatkhande, A. and Chavan, R. (2019). Assessing Work Motivation of Forest Guards in Maharashtra. Mumbai: Wildlife Conservation Trust, India. [https://www.wildlifeconservationtrust.org/wp- content/uploads/2020/06/061720-Assessing-Work-Motivation-of-Forest-Guards-Maharashtra.pdf](https://www.wildlifeconservationtrust.org/wp-%20content/uploads/2020/06/061720-Assessing-Work-Motivation-of-Forest-Guards-Maharashtra.pdf)
+
+6.  Belhekar, V.M. & Deshpande, C. (2019). Culture, Cognition, Personality, Mental Health, & Decision Making: A study of School Children from Select Urban School & Tribal Ashram Shala: Behaviour Economics and Developmental Psychometrics Analysis and Policy Recommendations. Report submitted to the Tribal Development Department, Government of Maharashtra and Tribal Research and Training Institute, Pune. <https://drive.google.com/file/d/14LW5ZRrh3suuKnvnBYcZkjbGjhxAqHrq/view?usp=share_link>
+
+7.  Hatekar, N., Belhekar,V., Chavan, R., Bhatkhande, A., & Patki, P. (2019). Of Incomes, Education and Anger: Understanding firewood consumption in Greater Tadoba Landscape. Mumbai: Wildlife Conservation Trust, India. <https://drive.google.com/file/d/14LW5ZRrh3suuKnvnBYcZkjbGjhxAqHrq/view?usp=share_link>
+
+8.  Bhatkhande, A., Dewoolkar, P., Patki, P., Paranjpye, P., Chavan, R., Ahmad T., & Belhekar, V. (2019). Inequality, Incentives and Institutions. Landscape approach to sustainable development goals. Mumbai: Wildlife Conservation Trust, India. <https://drive.google.com/file/d/1b5q1dVDh9OAnihGrROMLt7qrdz0yItQm/view?usp=share_link>
+
+9.  Hatekar, N., Belhekar, V., Chavan, R., Bhatkhande, A., Patki, P. (ND). The Kanhargaon Story: An argument to modify inefficient institutions for improved outcomes. Mumbai: Wildlife Conservation Trust, India. <https://drive.google.com/file/d/1UgR4GfhUdWewavT0QRwvdfjfFTsEQtrL/view?usp=share_link>
+
+# **Books**
+
+1.  Belhekar, V. M. (2016). Statistics for Psychology Using R. SAGE Publication. New Delhi. <https://doi.org/10.4135/9789353282493>
+
+2.  Belhekar, V.M. (In Press). Statistics for Behavioral and Social Sciences: Univariate, Multivariate and Contemporary Methods Using R. Taylor and Francis. (Contract Signed and manuscript is under preparation). <https://drive.google.com/file/d/1Zwfv4I7LItSPNNOXvsYXLW91DTvwSsoI/view?usp=share_link>
+
+3.  Introduction to Correlation analysis for Psychology. IGNOU. New Delhi. BPC 004 Statistics in Psychology. <https://egyankosh.ac.in/handle/123456789/23465>
+
+4.  Correlation and Regression. Indira Gandhi National Open University (IGNOU). New Delhi. MPC 006 Statistics in Psychology
+
+5.  Introduction to Parametric and Non-Parametric Statistics: Indira Gandhi National Open University (IGNOU), New Delhi. MPC 006 Statistics in Psychology. ISBN: 9789355680716 [http://egyankosh.ac.in//handle/123456789/79658](http://egyankosh.ac.in/handle/123456789/79658)
+
+# **Book Chapters**
+
+1.  Personality Psychology. (2011). Kashmir University. Jammu and Kashmir.
+
+2.  Social Cognition I (2010) (Ed.). Social Psychology, IDOL, University of Mumbai.
+
+3.  Social Cognition II (2010) (Ed.). Social Psychology, IDOL, University of Mumbai.
+
+4.  Cognitive Development in Infancy (2010) (Ed.). Developmental Psychology, IDOL, University of Mumbai.
+
+5.  Theories of Personality- I (2009) (Ed.) General Psychology, IDOL, University of Mumbai.
+
+6.  Theories of Personality- II (2009) (Ed.) Page 13 of 28 General Psychology, IDOL, University of Mumbai.
+
+7.  बेल्हेकर, विवेक  (2022). लोकशाही मानसिकता कशी घडते? दीपक पवार (संपादक). ‘लोकशाही समजून घेताना’. मुख्य निवडणकू अधिकारी कार्यालय, महाराष्ट्र राज्य. \[Belhekar, Vivek (2022). How does a Democracy-Mindset develop? Deepak Pawar (Editor). In 'Understanding Democracy'. Chief Electoral Officer, Government of Maharashtra\] <https://www.aksharnama.com/client/article_detail/5908>
