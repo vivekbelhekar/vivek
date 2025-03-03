@@ -3,3 +3,24 @@ title: "My Labs"
 format: html
 ---
 
+## **Personality, Language and Culture Lab**
+
+This lab works in the area of Personality, Language and Culture. The aim of the lab is to (i) carry out psycholexical personality research in Indian languages to understand relationship between culture and personality; (ii) develop psychometric instruments in Indian languages with local norms to assess personality and other psychological attributes; (iii) develop Online Psychometric Centre in Indian languages for easy psychometric profiling; (iv) to develop culturally relevant, personality based predictive models of human behavior; (v) develop corpus of languages, and literature; develop dictions; and develop text-mining tools; (vi) use language and text based data to understand society and culture.
+
+## **Psychology for Conservation, Climate Change, and Sustainable Solutions Lab** 
+
+This lab works in the area of protecting natural and intact ecosystems and habitats and ensure wellbeing of humans using psychological and social sciences principles. The lab aims at, (i) understanding conservation preferences of people across landscapes; (ii) understanding the conservationists mindsets and challenges; (iii) develop models to predict pro-conservation behaviors; (iv) develop and evaluate solutions for sustainability; (v) develop psychological instruments to understand psychological aspects of conservation and climate change; (vi) develop large behavioural data monitoring system; (vii) develop behaviour-based policy prescriptions.
+
+## **Laboratory Development in the Department**
+
+### **Experimental Psychology** 
+
+Developed one of its kind mobile experimental Psychology Laboratory and conducted national-level hands on training for building experiments on computers using open-source programs. Included these components in the syllabus of Masters course. Perhaps first varsity to train Masters Students to develop and analyze cognitive-neuropsychological experiments using experiment builders.
+
+### **Online Covid Counseling Center** 
+
+Setup and coordinated an Online Covid Counseling Center at University of Mumbai. <https://mu.ac.in/online-counseling-for-covid-19-english>
+
+### **Brain-Behavior Laboratory** 
+
+Ongoing development of ‘Brain Behavior Laboratory’ at the University of Mumbai. The proposed plan is to develop EEG-ERP lab and Eye-Tracker Lab. Lab infrastructure is ready.

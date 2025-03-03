@@ -1,5 +1,17 @@
 ---
 title: "Contact"
 format: html
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
+**Email:**
+
+vivek\@psychology.mu.ac.in\
+vivek.belhekar\@gmail.com
+
+**Office address:**
+
+Office number 111, Department of Applied Psychology, CD Deshmukh Bhavan,
+University of Mumbai, Santacruz East, Mumbai-400098 Maharashtra, India
