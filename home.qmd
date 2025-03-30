@@ -3,3 +3,9 @@ title: "Home"
 format: html
 ---
 
+**Vivek Belhekar, Ph.D.\
+Associate Professor and Head\
+Department of Applied Psychology\
+Director, Mahatma Gandhi Peace Center\
+Chairperson, BoS, Psychology\
+University of Mumbai**
